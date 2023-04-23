@@ -93,7 +93,7 @@ body {
   flex-direction: row;
   justify-content: space-around;
   font-family: 'Noto Sans TC', sans-serif;
-  /* font-family:'WD-XL Lubrifont TC'; */
+  /* font-family:'Noto Sans TC', sans-serif; */
   align-items: center;
 }
 
@@ -166,17 +166,14 @@ body {
 
 .menu_link {
   flex: 0.4;
-  color: #ffffff;
-  font-size: 28px;
-  /* font-weight: bold; */
-  letter-spacing: 6px;
-  text-decoration: none;
-  transition: 0.5s;
-  font-size: 30px;
-  /* font-family: 'Noto Sans TC', sans-serif; */
-  font-family: 'WD-XL Lubrifont TC';
-  text-shadow: 0.1em 0.1em 0.2em rgba(6, 6, 6, 0.4);
-  line-height: normal;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 4px;
+    text-decoration: none;
+    transition: 0.5s;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-shadow: 0.1em 0.1em 0.2em rgba(6, 6, 6, 0.4);
 }
 
 .link_triangle {
@@ -961,7 +958,7 @@ section{
   font-size: 24pt;
   letter-spacing: 4px;
   color: #ffffff;
-  font-family:'WD-XL Lubrifont TC';
+  font-family:'Noto Sans TC', sans-serif;
   position: relative;
   top: 160px;
   left: 20%;
